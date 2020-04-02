@@ -1,0 +1,12 @@
+port: 8080
+mode: dev
+
+redis:
+  addr: "localhost:6379"
+  password: "zhangheng123"
+  db: "0"
+
+logLevel: "debug"
+session:
+  name: "SSO_ID"
+  secret: "89d953ebc4e68eeb74fa29bb6d2b85a30fa60f48"
