@@ -1,0 +1,9 @@
+port: 8081
+mode: dev
+
+redis:
+  addr: "localhost:6379"
+  password: "zhangheng123"
+  db: "0"
+
+logLevel: "debug"

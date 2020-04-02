@@ -1,0 +1,5 @@
+{"level":"info","msg":"\u0026{UserName:zhangheng UserId:1244917717916454912 Registertime:\u0001\u0000\u0000\u0000\u000e\ufffd\u0015\u0002\ufffd\u0003\ufffd\u003cx\u0001\ufffd}","request_id":"bq1gn85h5s5g0divjgtg","time":"2020-03-31T17:21:36+08:00","user_ip":"127.0.0.1"}
+{"level":"info","msg":"http://0.0.0.0:3001?token=3264653634313563356535666237366464383837643666393161613364616335","request_id":"bq1gn85h5s5g0divjgtg","time":"2020-03-31T17:21:36+08:00","user_ip":"127.0.0.1"}
+{"level":"info","msg":"zhangheng","request_id":"bq1gn8lh5s5g0divjgu0","time":"2020-03-31T17:21:38+08:00","user_ip":"127.0.0.1"}
+{"level":"info","msg":"\u0026{UserName:zhangheng UserId:1244917717916454912 Registertime:\u0001\u0000\u0000\u0000\u000e\ufffd\u0015\u0002\ufffd\u0003\ufffd\u003cx\u0001\ufffd}","request_id":"bq1gn8lh5s5g0divjgu0","time":"2020-03-31T17:21:38+08:00","user_ip":"127.0.0.1"}
+{"level":"info","msg":"map[userName:zhangheng clientId: globalSessionId:CKRJK63SNUB4LXQTFDZCO4DDM6MPT6DMA7ZNPOUMFLRJ2J3BQYPQ userId:1244917717916454912]","request_id":"bq1gn8lh5s5g0divjgug","time":"2020-03-31T17:21:38+08:00","user_ip":"127.0.0.1"}
