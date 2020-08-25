@@ -2,10 +2,10 @@ package main
 
 import (
 	"flag"
-	"login/src/app/global"
-	"login/src/app/middlewares"
-	"login/src/app/models"
-	"login/src/app/routes"
+	"luck-home/winddies/sso-api/app/global"
+	"luck-home/winddies/sso-api/app/middlewares"
+	"luck-home/winddies/sso-api/app/models"
+	"luck-home/winddies/sso-api/app/routes"
 	"net/http"
 	"time"
 

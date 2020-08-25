@@ -3,8 +3,8 @@ package middlewares
 import (
 	"bufio"
 	"fmt"
-	"login/src/app/global"
-	"login/src/app/utils"
+	"luck-home/winddies/sso-api/app/global"
+	"luck-home/winddies/sso-api/app/utils"
 	"os"
 	"time"
 

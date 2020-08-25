@@ -1,9 +1,9 @@
 package auth
 
 import (
-	"login/src/app/code"
-	"login/src/app/models"
-	"login/src/app/service"
+	"luck-home/winddies/sso-api/app/code"
+	"luck-home/winddies/sso-api/app/models"
+	"luck-home/winddies/sso-api/app/service"
 
 	"github.com/gin-contrib/sessions"
 	"github.com/gin-gonic/gin"

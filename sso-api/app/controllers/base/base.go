@@ -1,8 +1,8 @@
 package base
 
 import (
-	"login/src/app/code"
-	"login/src/app/utils"
+	"luck-home/winddies/sso-api/app/code"
+	"luck-home/winddies/sso-api/app/utils"
 
 	"github.com/gin-gonic/gin"
 	log "github.com/sirupsen/logrus"

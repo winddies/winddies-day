@@ -2,7 +2,7 @@ package models
 
 import (
 	"fmt"
-	"login/src/app/global"
+	"luck-home/winddies/sso-api/app/global"
 
 	redisStore "github.com/gin-contrib/sessions/redis"
 	"github.com/go-redis/redis"

@@ -1,8 +1,8 @@
 package routes
 
 import (
-	"login/src/app/controllers/auth"
-	"login/src/app/middlewares"
+	"luck-home/winddies/sso-api/app/controllers/auth"
+	"luck-home/winddies/sso-api/app/middlewares"
 
 	"github.com/gin-gonic/gin"
 )

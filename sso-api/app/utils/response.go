@@ -1,7 +1,7 @@
 package utils
 
 import (
-	codes "login/src/app/code"
+	codes "luck-home/winddies/sso-api/app/code"
 
 	"github.com/gin-gonic/gin"
 )

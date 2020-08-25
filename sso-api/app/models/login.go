@@ -2,7 +2,7 @@ package models
 
 import (
 	"fmt"
-	"login/src/app/utils"
+	"luck-home/winddies/sso-api/app/utils"
 	"strconv"
 	"strings"
 	"time"

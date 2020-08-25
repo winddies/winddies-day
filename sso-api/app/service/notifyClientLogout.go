@@ -2,7 +2,7 @@ package service
 
 import (
 	"io/ioutil"
-	"login/src/app/models"
+	"luck-home/winddies/sso-api/app/models"
 	"net/http"
 	"net/url"
 	"sync"

@@ -1,9 +1,9 @@
 package service
 
 import (
-	"login/src/app/global"
-	"login/src/app/models"
-	"login/src/app/utils"
+	"luck-home/winddies/sso-api/app/global"
+	"luck-home/winddies/sso-api/app/models"
+	"luck-home/winddies/sso-api/app/utils"
 
 	"github.com/gin-gonic/gin"
 	log "github.com/sirupsen/logrus"

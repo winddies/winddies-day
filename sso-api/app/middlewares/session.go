@@ -1,8 +1,8 @@
 package middlewares
 
 import (
-	"login/src/app/global"
-	"login/src/app/models"
+	"luck-home/winddies/sso-api/app/global"
+	"luck-home/winddies/sso-api/app/models"
 
 	"github.com/gin-contrib/sessions"
 	"github.com/gin-gonic/gin"
